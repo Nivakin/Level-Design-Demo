@@ -1,0 +1,14 @@
+# Unreal build/cache output
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+*.suo
+*.VC.db
+# Packaged/exported builds (large)
+Windows/
+ExportHere/
+# Tooling
+.claude/
